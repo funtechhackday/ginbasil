@@ -1,0 +1,10 @@
+bin/
+CVS/
+*.jar
+target/
+.classpath
+.project
+.settings
+doc/
+.idea/
+*.iml
